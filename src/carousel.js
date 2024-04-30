@@ -4,21 +4,21 @@ const Carrousel = () => {
   return (
     <Carousel>
       <Carousel.Item>
-      <img src='https://e.rpp-noticias.io/xlarge/2023/03/28/240824_1407903.jpg' alt='First slide' className='img-fluid' />
+      <img src="https://www.elindependiente.com/wp-content/uploads/2024/01/1-2-990x660.jpg" class="d-block w-100" style={{height: "450px", width: "50%"}} alt="..."/>
         <Carousel.Caption>
           <h3>First slide label</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-      <img src='https://e.rpp-noticias.io/xlarge/2023/03/28/240824_1407903.jpg' alt='First slide' className='img-fluid' />
+      <img src="https://www.elindependiente.com/wp-content/uploads/2024/01/4-1-990x660.jpg" class="d-block w-100" style={{height: "450px", width: "50%"}} alt="..."/>
         <Carousel.Caption>
           <h3>Second slide label</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-      <img src='https://e.rpp-noticias.io/xlarge/2023/03/28/240824_1407903.jpg' alt='First slide' className='img-fluid' />
+      <img src="https://www.elindependiente.com/wp-content/uploads/2024/01/9-990x660.jpg" class="d-block w-100" style={{height: "450px", width: "50%"}} alt="..."/>
         <Carousel.Caption>
           <h3>Third slide label</h3>
           <p>
