@@ -4,6 +4,7 @@ import Header from "./header";
 import Main from "./main";
 import Aside from "./aside";
 import Footer from "./footer";
+import Carrousel from "./carousel";
 
 const root = createRoot(document.getElementById("root"));
 
@@ -14,6 +15,7 @@ root.render(
             <div className="row">
                 <div className="col-md-8">
                     <Main></Main>
+                    <Carrousel></Carrousel>
                 </div>
                 <div className="col-md-4">
                     <Aside></Aside>
